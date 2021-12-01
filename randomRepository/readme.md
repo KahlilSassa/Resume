@@ -1,0 +1,1 @@
+Created 3 different files. A info file that has the my inital resume, the package json that allows me to use it as a template and an index file that allows me ton read it.
