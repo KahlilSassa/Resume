@@ -1,0 +1,26 @@
+const jsonObject = {
+    "name": "Kahlil Sassa",
+    "website": "https://kahlilsassa.github.io/",
+    "linkedin": "https://www.linkedin.com/in/kahlilsassa/",
+    "github": "kahlilsassa",
+    "email": "kahlil.sassa@generalassemb.ly",
+    "resume": "https://tomatohammado.github.io/assets/Kahlil-Sassa-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
